@@ -30,9 +30,14 @@ img {
 #block7 h2 {
   color: rgb(235, 144, 223);
   background-color: slateblue;
+  font-family: 'Lobster', ;
+
 }
 
 ol {
   color: rgb(236, 145, 236);
   background-color: slateblue;
+  font-family: 'Lobster', ;
+
 }
+
