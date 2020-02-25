@@ -1,0 +1,14 @@
+#block6 {
+  font-family: Aclonica;
+  color: #0900C3;
+}
+
+#block6 a:hover {
+  text-decoration: underline;
+}
+
+#block6 img {
+  border-radius: 20px;
+  width: 150px;
+  height: 150px;
+}
