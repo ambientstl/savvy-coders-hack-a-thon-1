@@ -1,8 +1,7 @@
 # Savvy Coders Hack-A-Thon 1: Student Showcase, Jan. 2020
 
 ## Contributors
-1. Ashley https://github.com/tigerlily187
-
+1. 
 2.
 3.
 4.
@@ -18,7 +17,7 @@
 14.
 15.
 16.
-17.
+17.Ashley https://github.com/tigerlily187
 
 ## Setup
 * Instructor forks template repo for product/integration repo
