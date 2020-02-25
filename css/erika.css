@@ -1,0 +1,16 @@
+#block3 h1 {
+  color: blueviolet;
+}
+#block3 p {
+  font-style: italic;
+}
+#block3 h2 {
+  color: rgb(255, 47, 99);
+}
+#block3 h3 {
+  text-decoration: underline;
+  color: darkolivegreen;
+}
+#block3 {
+  background-color: mistyrose;
+}
