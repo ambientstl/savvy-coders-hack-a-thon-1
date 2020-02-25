@@ -1,23 +1,23 @@
 # Savvy Coders Hack-A-Thon 1: Student Showcase, Jan. 2020
 
 ## Contributors
-1. Ethan - [Here's my github!] (https://github.com/Ezmapel)
-2. Clint [Github] (https://github.com/ki2clint)
-3. Erika  [Github] (https://github.com/erpflueger29)
+1. Ethan - [Here's my github!](https://github.com/Ezmapel)
+2. Clint [Github](https://github.com/ki2clint)
+3. Erika  [Github](https://github.com/erpflueger29)
 4. <a href = https://github.com/jhoward21>JermellHoward</a>
 5. <a href = https://github.com/cbrantley4>Cameron Brantley</a>
-6. <a href="https://github.com/acaine03>Caine III</a>
+6. <a href=https://github.com/acaine03>Caine III</a>
 7. <a href="https://github.com/Tylerdurden01">"Ty"</a>
 8. 
-9. [Nathan] (https://github.com/TNathanSampson)
+9. [Nathan](https://github.com/TNathanSampson)
 10. [Tim Truss](https://github.com/TimTruss)
 11.[Carter Frerichs](https://github.com/carterFrerichs)
 12.[David Kemp](https://github.com/davkem43/DavidKemp)
-13.[Jenny] (https://github.com/Jmm11297)
+13.[Jenny](https://github.com/Jmm11297)
 14. Minh Tran https://github.com/Minhtran1
 15.[Dimitry](https://github.com/XnightcrawlerX)
 16.
-17.Ashley https://github.com/tigerlily187
+17.[Ashley](https://github.com/tigerlily187)
 
 ## Setup
 * Instructor forks template repo for product/integration repo
