@@ -2,7 +2,7 @@
 
 ## Contributors
 1.
-2.
+2. Clint [Github] (https://github.com/ki2clint)
 3.
 4.
 5.
